@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there 👋
+
+Studying to become a Full-Stack Web Developer
+
+- 🌱 I’m currently learning .html 
+- 😄 Pronouns: he/his
+
+
 
 <!--
 **DanCaley/DanCaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
