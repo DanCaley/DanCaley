@@ -5,6 +5,8 @@ Studying to become a **Full-Stack Web Developer**
 - 🌱 I’m currently learning `.html`, `.css`, `.js`, `.py` 
 - 😄 Pronouns: he/his
 
+:emojicode🇬🇧
+:emojicode🚲
 
 
 <!--
